@@ -1,7 +1,7 @@
 {
   "app_name": "📦 Additional Resources",
   "version": "1",
-  "download_url": "",
+  "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
   "message": "This app needs additional resources to work properly.",
   "connect_text": "DOWNLOAD"
 }
